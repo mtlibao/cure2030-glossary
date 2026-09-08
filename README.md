@@ -28,7 +28,7 @@ teaching order — section 00 first, then L01 through L14. Click one to jump to 
 The section you are reading is highlighted as you scroll.
 
 **Or search everything at once.** The search box filters all 170 entries as you
-type, and matches on English terms, 中文 terms, and the text of the definitions.
+type, and matches on English terms, Chinese terms, and the text of the definitions.
 So searching `nostalgia` finds every entry that discusses it, not only the ones
 with "nostalgia" in the title. Matches are highlighted.
 
