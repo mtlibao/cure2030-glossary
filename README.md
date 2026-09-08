@@ -4,7 +4,7 @@ A bilingual study reference for **CURE2030 / UGEC2241 Hong Kong Cinema** at the
 Chinese University of Hong Kong — 170 terms across 15 sections, in English and
 中文, organised in teaching order.
 
-**→ Open the glossary:** [index.html](index.html)
+**→ Open the glossary:** http://mtlibao.github.io/cure2030-glossary
 
 ---
 
